@@ -8,6 +8,8 @@ const userCommand=process.argv[2];
 
 const userInput=process.argv.splice(3,process.argv.length).join(' ');
 
+function (userCommand, appSearch)
+
 
 switch(userCommand) {
 
@@ -20,16 +22,21 @@ switch(userCommand) {
   break;
 
   case "spotify-this-song":
-  mySpotify
+  mySpotify(appSearch)
+  break;
+  
 
   case "movie-this":
-  myMovies
+  myMovies(appSearch)
+  break;
 
   case "concert-this":
-  myConcerts
+  myConcerts(appSearch)
+  break;
 
   case "do-what-it-says":
-  (random.txt)
+  (random.txt)(appSearch)
+  break;
 
 }
 
