@@ -1,15 +1,12 @@
 require("dotenv").config();
-const fs=require("fs");
+
 const mySpotify=require("./spotify.js");
 const myMovies=require("./movies.js");
 const myConcerts=require("./concerts.js")
+const rndmTxt=require("./random.txt")
 
 const userCommand=process.argv[2];
-
 const userInput=process.argv.splice(3,process.argv.length).join(' ');
-
-function (userCommand, appSearch)
-
 
 switch(userCommand) {
 
@@ -25,7 +22,6 @@ switch(userCommand) {
   mySpotify(appSearch)
   break;
   
-
   case "movie-this":
   myMovies(appSearch)
   break;
@@ -35,8 +31,7 @@ switch(userCommand) {
   break;
 
   case "do-what-it-says":
-  (random.txt)(appSearch)
+  rndmTxt(appSearch)
   break;
 
 }
-

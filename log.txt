@@ -1,0 +1,532 @@
+
+Movie Search Log----------------
+
+Year: 1986
+
+IMDb Rating: 6.6
+
+Country: USA
+
+Language: English, Spanish
+
+Plot: An inventor spurns his city life to move his family into the jungles of Central America to make a utopia.
+
+Actors: Harrison Ford, Helen Mirren, River Phoenix, Jadrien Steele
+
+----------------------------------
+
+Movie Search Log----------------
+
+Movie Title: The Mosquito Coast
+
+Year: 1986
+
+IMDb Rating: 6.6
+
+Country: USA
+
+Language: English, Spanish
+
+Plot: An inventor spurns his city life to move his family into the jungles of Central America to make a utopia.
+
+Actors: Harrison Ford, Helen Mirren, River Phoenix, Jadrien Steele
+
+----------------------------------
+
+Song Search Log--------------------
+
+Song Name: Toxic
+
+Artist(s): Britney Spears
+
+Album: In The Zone
+
+Preview Link: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=fe62992dd9b143aa8a9d28ed29490767
+
+-----------------------------------
+
+Song Search Log--------------------
+
+Song Name: Toxic
+
+Artist(s): Britney Spears
+
+Album: In The Zone
+
+Preview Link: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=fe62992dd9b143aa8a9d28ed29490767
+
+-----------------------------------
+
+Song Search Log--------------------
+
+Song Name: Toxic
+
+Artist(s): Britney Spears
+
+Album: In The Zone
+
+Preview Link: https://p.scdn.co/mp3-preview/8465386fd6ce10f7ae3bd9c907825d7cb955ade0?cid=fe62992dd9b143aa8a9d28ed29490767
+
+-----------------------------------
+
+Movie Search Log----------------
+
+Title: The Stuff
+
+Year: 1985
+
+IMDb Rating: 5.9
+
+Country: USA
+
+Language: English
+
+Plot: A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any cost begin infesting the world.
+
+Actors: Michael Moriarty, Andrea Marcovicci, Garrett Morris, Paul Sorvino
+
+----------------------------------
+
+Movie Search Log----------------
+
+Title: The Stuff
+
+Year: 1985
+
+IMDb Rating: 5.9
+
+Country: USA
+
+Language: English
+
+Plot: A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any cost begin infesting the world.
+
+Actors: Michael Moriarty, Andrea Marcovicci, Garrett Morris, Paul Sorvino
+
+----------------------------------
+
+Movie Search Log----------------
+
+Title: The Stuff
+
+Year: 1985
+
+IMDb Rating: 5.9
+
+Country: USA
+
+Language: English
+
+Plot: A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any cost begin infesting the world.
+
+Actors: Michael Moriarty, Andrea Marcovicci, Garrett Morris, Paul Sorvino
+
+----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: 
+
+Venue Location: 
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: Dickies Arena
+
+Venue Location: Fort Worth,TX
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: SAP Center at San Jose
+
+Venue Location: San Jose,CA
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles,CA
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis,IN
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York,NY
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston,MA
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: Xfinity Theatre
+
+Venue Location: Hartford,CT
+
+-----------------------------------
+
+Concert Search Log ----------------
+
+Venue Name: Forum Theatre
+
+Venue Location: Melbourne,
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: Dickies Arena
+
+Venue Location: Fort Worth,TX
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: SAP Center at San Jose
+
+Venue Location: San Jose,CA
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles,CA
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis,IN
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York,NY
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston,MA
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: Xfinity Theatre
+
+Venue Location: Hartford,CT
+
+-----------------------------------
+
+Concert Search Log forLizzo----------------
+
+Venue Name: Forum Theatre
+
+Venue Location: Melbourne,
+
+-----------------------------------
+
+Concert Search Log for steely dan----------------
+
+Venue Name: WinStar World Casino and Resort
+
+Venue Location: Thackerville,OK
+
+-----------------------------------
+
+Concert Search Log for steely dan----------------
+
+Venue Name: WinStar World Casino and Resort
+
+Venue Location: Thackerville,OK
+
+-----------------------------------
+
+Concert Search Log for steely dan----------------
+
+Venue Name: WinStar World Casino and Resort
+
+Venue Location: Thackerville,OK
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Dickies Arena
+
+Venue Location: Fort Worth,TX
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: SAP Center at San Jose
+
+Venue Location: San Jose,CA
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles,CA
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis,IN
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York,NY
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston,MA
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Xfinity Theatre
+
+Venue Location: Hartford,CT
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Forum Theatre
+
+Venue Location: Melbourne,
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Dickies Arena
+
+Venue Location: Fort Worth,TX
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: SAP Center at San Jose
+
+Venue Location: San Jose,CA
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: The Forum
+
+Venue Location: Los Angeles,CA
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Bankers Life Fieldhouse
+
+Venue Location: Indianapolis,IN
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Madison Square Garden
+
+Venue Location: New York,NY
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: TD Garden
+
+Venue Location: Boston,MA
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Xfinity Theatre
+
+Venue Location: Hartford,CT
+
+-----------------------------------
+
+Concert Search Log for Lizzo----------------
+
+Venue Name: Forum Theatre
+
+Venue Location: Melbourne,
+
+-----------------------------------
