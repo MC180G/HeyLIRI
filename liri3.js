@@ -92,6 +92,7 @@ switch (userCommand) {
         break;
 
     // *--------CONCERT CONNECTION----------*
+    
     case "concert-this":
 
         var artist = userInput;
@@ -117,7 +118,9 @@ switch (userCommand) {
             })
         break;
 
+        // *---------------THE RANDOM TEXT PART----------------*
+
     case "do-what-it-says":
-        fs.readFileSync('random.txt');
+        require('random.txt');
         break;
 };
