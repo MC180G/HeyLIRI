@@ -42,7 +42,7 @@ switch (userCommand) {
                 console.log("\n----------------------");
                 console.log("Song : " + results.name);
                 console.log("By: " + results.artists[0].name);
-                console.log("From their Album - " + results.album.name);
+                console.log("From the Album - " + results.album.name);
                 console.log("Hear Some @ " + results.preview_url);
                 console.log("----------------------\n")
 
