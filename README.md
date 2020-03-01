@@ -1,4 +1,5 @@
 # liri-node-app
+Matt Colson
 
 The purpose of this Language Interpretation and Recognition Interface is to retrieve data about songs, concerts, and movies.
 
@@ -17,3 +18,11 @@ Finally, when one types simply [do-what-it-says], *it* will be the random.txt fi
 previous commands.
 
 If these are difficult to convey, I've included a [help] function that will display *each command* and *how to use them*.
+
+Used:
+Node - FrontEnd
+
+APIs-
+Spotify
+OMDb
+bandsintown
