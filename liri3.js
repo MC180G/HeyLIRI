@@ -27,7 +27,6 @@ switch (userCommand) {
     // *------------------SPOTIFY-----------------*
 
     case "spotify-this-song":
-        console.log("I can Name That Tune!");
 
         let song = userInput;
         if (!song) {
@@ -43,8 +42,8 @@ switch (userCommand) {
                 console.log("\n----------------------");
                 console.log("Song : " + results.name);
                 console.log("By: " + results.artists[0].name);
-                console.log("Hear Some @ " + results.preview_url);
                 console.log("From the Album - " + results.album.name);
+                console.log("Hear Some @ " + results.preview_url);
                 console.log("----------------------\n")
 
                 fs.appendFileSync('log.txt', "\r\n" + "Song Search Log--------------------" + "\r\n", 'utf8');
@@ -92,7 +91,7 @@ switch (userCommand) {
         break;
 
     // *--------CONCERT CONNECTION----------*
-    
+
     case "concert-this":
 
         var artist = userInput;
@@ -103,24 +102,32 @@ switch (userCommand) {
 
         axios.get(url).then(
             function (response) {
-                
+
                 console.log("\nLet's go see " + artist + " at -\n");
-               
+
                 for (let i = 0; i < response.data.length; i++) {
                     console.log(response.data[i].venue.name);
                     console.log("in " + response.data[i].venue.city + "," + response.data[i].venue.region);
                     console.log("\n------------------\n");
                     fs.appendFileSync('log.txt', "\r\n" + "Concert Search Log for " + artist + "----------------" + "\r\n", 'utf8');
-                    fs.appendFileSync('log.txt', "\r\n" + "Venue Name: "  + response.data[i].venue.name + "\r\n", 'utf8');
-                    fs.appendFileSync('log.txt', "\r\n" + "Venue Location: "  + response.data[i].venue.city + "," + response.data[i].venue.region + "\r\n", 'utf8');
+                    fs.appendFileSync('log.txt', "\r\n" + "Venue Name: " + response.data[i].venue.name + "\r\n", 'utf8');
+                    fs.appendFileSync('log.txt', "\r\n" + "Venue Location: " + response.data[i].venue.city + "," + response.data[i].venue.region + "\r\n", 'utf8');
                     fs.appendFileSync('log.txt', "\r\n" + "-----------------------------------" + "\r\n", 'utf8');
                 }
             })
         break;
 
-        // *---------------THE RANDOM TEXT PART----------------*
+    // *---------------THE RANDOM TEXT PART----------------*
 
     case "do-what-it-says":
-        require('random.txt');
+
+        fs.readFile('random.txt', "utf8", (err, data) => {
+            if (err) throw err;
+            else {
+                console.log(userInput);
+
+            }
+        });
+
         break;
-};
+}
