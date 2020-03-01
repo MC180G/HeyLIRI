@@ -30,7 +30,7 @@ switch (userCommand) {
 
         let song = userInput;
         if (!song) {
-            song = "the sign Ace of Base"
+            song = "the sign by Ace of Base"
         }
         spotify
             .search({ type: 'track', query: song })
